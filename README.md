@@ -1,22 +1,22 @@
 ---
-description: Welcome to Specialism at CYF
+description: Welcome to volunteer onboarding at CYF
 ---
 
 # Overview
 
-## Learning Objectives
+The purpose of this onboarding is to give you a brief introduction to the most important topics for volunteering at CodeYourFuture. 
 
-Briefly list very top level learning objectives ([guide here)](https://teachtogether.tech/en/index.html#s:process-objectives)
+In this onboarding, you will watch some short videos (or read descriptions) of four key topics. 
 
-* Explain topic
-* Use tool
-* Build thing
+Afterwards, we have a short (and easy) quiz to ensure that you remember the fundamentals as you start your volunteer journey. 
 
-Don't worry too much about the format -- Syllabus can revise your wording
+Don't worry, the quiz is REALLY simple, and even if you don't get it right, you can still volunteer with us! You'll see what we mean when you get there. 
 
-## Topic Introduction
+## Four key topics to start volunteering at CodeYourFuture
 
-Max 250 words. Syllabus can revise this, so it's fine to just get a first draft down.
+1. Values
+2. Ways of working
+3. Community Safety / Code of Conduct
+4. Slack intro
 
-
-
+Lets get started!
